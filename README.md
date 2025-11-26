@@ -107,6 +107,18 @@ Open `.pbix` → Refresh data source.
 
 Open link from `/presentation/`.
 
+<img width="1350" height="756" alt="image" src="https://github.com/user-attachments/assets/54bc8229-2d12-4adf-bdf3-fa292672e6e9" />
+
+<img width="1331" height="742" alt="image" src="https://github.com/user-attachments/assets/019c627a-7546-4eda-b0ca-3eeecf6d9f7f" />
+
+<img width="1338" height="739" alt="image" src="https://github.com/user-attachments/assets/0bcfaaa6-c795-4568-a176-3ae15ca4a3f2" />
+
+<img width="1341" height="742" alt="image" src="https://github.com/user-attachments/assets/4dd5b877-bfa0-486f-ad5b-0208bb160010" />
+
+
+
+
+
 ------------------------------------------------------------------------
 
 ## 📬 Screenshots
